@@ -19,4 +19,9 @@ Here, we show that training the network with simulated data, the network learns 
 - import tensorflow.compat.v1 as tf
 - Other packages, such as *Matplotlib, Numpy and Scipy*, are also used
 
+## Reference
+The inspiration for this work is the following paper：
 
+```
+https://arxiv.org/abs/1801.01236
+```
