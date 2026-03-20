@@ -1,6 +1,6 @@
 # forwardEulerNET
 
-Differential equations are used to model problems that originate in disciplines such as physics, biology, chemistry, and engineering. In recent times, due to the abundance of data, there is an active search for data-driven methods to learn Differential equation models from data. However, many numerical methods often fall short. Advancements in neural networks and deep learning have motivated a shift towards data-driven deep learning methods that can learn differential equations from data. In this work, we propose a forward-Euler-based neural network model and test its performance by learning ODEs such as the FitzHugh-Nagumo equations from data using different numbers of hidden layers and different neural network widths.
+Differential equation models have found applications to problems originating in disciplines such as biology, physics, chemistry, and medicine. In recent years, due to the abundance of data, there has been an active search for data-driven methods to learn Differential equation models from data. Advancements in neural networks and deep learning have motivated a shift towards data-driven deep learning methods that can learn differential equations from data. In this work, we propose a forward-Euler-based neural network model and test its performance by learning ODEs such as the FitzHugh-Nagumo equations from data using different numbers of hidden layers and different neural network widths. We also show the reliability of this approach at 0%, 1%, and 5% noise in the training data.
 
 The paper is available at
 ```
